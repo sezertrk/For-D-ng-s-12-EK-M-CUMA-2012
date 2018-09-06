@@ -1,0 +1,9 @@
+E:\PROJELERİM\For Döngüsü 12 EKİM CUMA 2012\For Döngüsü 12 EKİM CUMA 2012\bin\Debug\For Döngüsü 12 EKİM CUMA 2012.exe
+E:\PROJELERİM\For Döngüsü 12 EKİM CUMA 2012\For Döngüsü 12 EKİM CUMA 2012\bin\Debug\For Döngüsü 12 EKİM CUMA 2012.pdb
+E:\PROJELERİM\For Döngüsü 12 EKİM CUMA 2012\For Döngüsü 12 EKİM CUMA 2012\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\PROJELERİM\For Döngüsü 12 EKİM CUMA 2012\For Döngüsü 12 EKİM CUMA 2012\obj\x86\Debug\For_Döngüsü_12_EKİM_CUMA_2012.Form1.resources
+E:\PROJELERİM\For Döngüsü 12 EKİM CUMA 2012\For Döngüsü 12 EKİM CUMA 2012\obj\x86\Debug\For_Döngüsü_12_EKİM_CUMA_2012.Properties.Resources.resources
+E:\PROJELERİM\For Döngüsü 12 EKİM CUMA 2012\For Döngüsü 12 EKİM CUMA 2012\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\PROJELERİM\For Döngüsü 12 EKİM CUMA 2012\For Döngüsü 12 EKİM CUMA 2012\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\PROJELERİM\For Döngüsü 12 EKİM CUMA 2012\For Döngüsü 12 EKİM CUMA 2012\obj\x86\Debug\For Döngüsü 12 EKİM CUMA 2012.exe
+E:\PROJELERİM\For Döngüsü 12 EKİM CUMA 2012\For Döngüsü 12 EKİM CUMA 2012\obj\x86\Debug\For Döngüsü 12 EKİM CUMA 2012.pdb
